@@ -1,2 +1,2 @@
 # Data-Structures-and-Algorithms-Training
-7 Days training content for learning Data Structures and algorithms.
+These are the materials shared by Girlscript Education Outreach Program for the course Data Structures and Algorithms during Covid-19 Lockdown.
